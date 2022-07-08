@@ -1,26 +1,34 @@
-# Bienvenida o Bienvenido a mi Portfolio de Ciencia de Datos
+# Portfolio de Ciencia de Datos
 
 ---
 
-## Mi primer proyecto
-[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
+## Proyectos
+[Mi primer proyecto](https://medium.com/pagina-entrada-blog)
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
+Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub]([https://github.com/tu-repo](https://github.com/bryan-marquez/proyecto-portafolio/blob/fbb59de4ebf932a57c913d3dce24eccc199ef442/notebooks/analisis_inicial.ipynb))
 
 [<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
 ---
 
-### Mis Skills son
+### Skills
 
 - Python
 - R
+- SQL
+- Tableau
 - Excel
-- ...
 
 ---
 
-### Me puedes contactar por una de estás vías
+### Cursos
+
+- Diplomado Técnico en Business Intelligence
+- SCRUM Foundation
+
+---
+
+### Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
 - Correo electrónico a <correo@gmail.com>
