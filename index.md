@@ -17,11 +17,9 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 - Deep Learning
 - Bases de Datos
 - Visualización
-- Python
-- R
-- SQL
-- Tableau
-- Excel
+- Análisis de Datos
+- Business Intelligence
+- Proyectos Ágiles
 
 ---
 
@@ -31,9 +29,9 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 - R
 - SQL
 - Tableau
-- Diplomado Técnico en Business Intelligence
-- SCRUM Foundation
 - Excel
+- Inteligencia de Negocios
+- SCRUM Foundation
 
 ---
 
