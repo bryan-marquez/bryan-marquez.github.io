@@ -13,6 +13,10 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 ### Skills
 
+- Machine Learning
+- Deep Learning
+- Bases de Datos
+- Visualización
 - Python
 - R
 - SQL
@@ -23,18 +27,23 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 ### Cursos
 
+- Python
+- R
+- SQL
+- Tableau
 - Diplomado Técnico en Business Intelligence
 - SCRUM Foundation
+- Excel
 
 ---
 
 ### Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
-- [GitHub](https://github.com/tu-github/)
+- Correo electrónico a <bryan_marquez@outlook.com>
+- [GitHub](https://github.com/bryan-marquez)
 - [Twitter](https://twitter.com/tu-twitter)
-- [Medium](https://medium.com/@tu-medium)
+- [Medium](https://medium.com/@bryan.didier.marquez)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 ---
