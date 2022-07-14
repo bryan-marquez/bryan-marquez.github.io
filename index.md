@@ -1,4 +1,4 @@
-# Portfolio de Ciencia de Datos
+# Portafolio de Ciencia de Datos
 
 ---
 
@@ -23,7 +23,7 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 ---
 
-### Cursos
+### Certificaciones
 
 - Python
 - R
