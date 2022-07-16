@@ -23,7 +23,7 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 ---
 
-### Certificaciones
+### Cursos
 
 - Python
 - R
