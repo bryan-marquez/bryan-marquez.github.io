@@ -5,7 +5,7 @@
 ## Proyectos
 [Mi primer proyecto](https://medium.com/pagina-entrada-blog)
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/fbb59de4ebf932a57c913d3dce24eccc199ef442/notebooks/analisis_inicial.ipynb)
+Análisis Exploratorio de Datos de Fraude en Seguros de Auto con Python. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/fbb59de4ebf932a57c913d3dce24eccc199ef442/notebooks/analisis_inicial.ipynb)
 
 [<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
