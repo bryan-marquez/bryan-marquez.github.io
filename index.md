@@ -25,13 +25,13 @@ Análisis Exploratorio de Datos de Fraude en Seguros de Auto con Python. [Seguir
 
 ### Cursos
 
-- Python
-- R
+- [Python](/pdf/Certificado_Python.pdf)
+- [R](/pdf/Certificado_R.pdf)
 - SQL
-- Tableau
+- [Tableau](/pdf/Certificado_Tableau.pdf)
 - Excel
-- Inteligencia de Negocios
-- SCRUM Foundation
+- [Inteligencia de Negocios](/pdf/Diploma_Tecnico_Inteligencia_Negocios.pdf)
+- [SCRUM Foundation](/pdf/Certificate_Scrum_Foundation.pdf)
 
 ---
 
