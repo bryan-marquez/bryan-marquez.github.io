@@ -3,11 +3,8 @@
 ---
 
 ## Proyectos
-[Mi primer proyecto](https://medium.com/pagina-entrada-blog)
 
-Análisis Exploratorio de Datos de Fraude en Seguros de Auto con Python. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/fbb59de4ebf932a57c913d3dce24eccc199ef442/notebooks/analisis_inicial.ipynb)
-
-Análisis Exploratorio de Datos (EDA) de Fraude en Seguros de Auto con Python. [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/main/notebooks/EDA_fraude_seguros_auto.ipynb)
+Análisis Exploratorio de Datos (EDA) de Fraude en Seguros de Auto con Python. [Seguir leyendo en Medium](https://medium.com/@bryan.didier.marquez/detección-de-fraude-en-seguros-de-auto-eda-en-python-173de2c759a6) o [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/main/notebooks/EDA_fraude_seguros_auto.ipynb)
 
 Detección de Fraude en Seguros de Auto con Python. [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/main/notebooks/Modelado_fraude_seguros_auto-Pipe.ipynb)
 
@@ -56,6 +53,6 @@ Pronóstico de Series Temporales con Redes Neuronales en Python. [Ver código en
 - [GitHub](https://github.com/bryan-marquez)
 - [Twitter](https://twitter.com/tu-twitter)
 - [Medium](https://medium.com/@bryan.didier.marquez)
-- [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
+- [Mi CV](/pdf/CV-BRYAN_MARQUEZ.pdf)
 
 ---
