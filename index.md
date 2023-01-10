@@ -31,6 +31,7 @@ Pronóstico de Series Temporales con Redes Neuronales en Python. [Ver código en
 - Análisis de Datos
 - Business Intelligence
 - Proyectos Ágiles
+- Nivel pre-intermedio (A2) de inglés
 
 ---
 
