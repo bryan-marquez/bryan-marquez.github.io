@@ -18,7 +18,7 @@ Generación de Texto con Redes Neuronales en R. [Ver código en GitHub](https://
 
 Pronóstico de Series Temporales con Redes Neuronales en Python. [Ver código en GitHub](https://github.com/bryan-marquez/redes_neuronales/blob/main/colab_notebooks/TimeSeries_RNN_LSTM_TSG.ipynb)
 
-[<img src="images/Data-Science-_-Evolucion.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+[<img src="images/Data-Science-_-Evolucion.jpg?raw=true"/>](https://medium.com/@bryan.didier.marquez)
 
 ---
 
@@ -51,7 +51,6 @@ Pronóstico de Series Temporales con Redes Neuronales en Python. [Ver código en
 - [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
 - Correo electrónico a <bryan_marquez@outlook.com>
 - [GitHub](https://github.com/bryan-marquez)
-- [Twitter](https://twitter.com/tu-twitter)
 - [Medium](https://medium.com/@bryan.didier.marquez)
 - [Mi CV](/pdf/CV-BRYAN_MARQUEZ.pdf)
 
