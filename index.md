@@ -49,7 +49,7 @@ Pronóstico de Series Temporales con Redes Neuronales en Python. [Ver código en
 
 ### Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/bryan-marquez-alvarez/)
+- [LinkedIn](https://www.linkedin.com/in/bryan-marquez-alvarez)
 - Correo electrónico a <bryan_marquez@outlook.com>
 - [GitHub](https://github.com/bryan-marquez)
 - [Medium](https://medium.com/@bryan.didier.marquez)
