@@ -6,7 +6,7 @@
 
 Análisis Exploratorio de Datos (EDA) de Fraude en Seguros de Auto con Python. [Seguir leyendo en Medium](https://medium.com/@bryan.didier.marquez/detección-de-fraude-en-seguros-de-auto-eda-en-python-173de2c759a6) o [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/main/notebooks/EDA_fraude_seguros_auto.ipynb)
 
-Detección de Fraude en Seguros de Auto con Python. [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/main/notebooks/Modelado_fraude_seguros_auto-Pipe.ipynb)
+Detección de Fraude en Seguros de Auto con Python. [Seguir leyendo en Medium](https://medium.com/@bryan.didier.marquez/detección-de-fraude-en-seguros-de-auto-clasificación-binaria-en-python-3028aad74995) o [Ver código en GitHub](https://github.com/bryan-marquez/proyecto-portafolio/blob/main/notebooks/Modelado_fraude_seguros_auto-Pipe.ipynb)
 
 Detección de Fraude en Seguros de Auto con Redes Neuronales en R. [Ver código en GitHub](https://github.com/bryan-marquez/redes_neuronales/blob/main/colab_notebooks/NN_fraude_autos_VD_R.ipynb)
 
