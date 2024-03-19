@@ -41,7 +41,7 @@ Pronóstico de Series Temporales con Redes Neuronales en Python. [Ver código en
 - [R](/pdf/Certificado_R.pdf)
 - [SQL](/pdf/Certificado_SQL.pdf)
 - [Tableau](/pdf/Certificado_Tableau.pdf)
-- [Excel](/pdf/Diploma_Macros_Excel.pdf)
+- [Power BI](/pdf/Certificado_PowerBI_DAX.pdf)
 - [Inteligencia de Negocios](/pdf/Diploma_Tecnico_Inteligencia_Negocios.pdf)
 - [SCRUM Foundation](/pdf/Certificate_Scrum_Foundation.pdf)
 - [PySpark](/pdf/Certificado_PySpark.pdf)
